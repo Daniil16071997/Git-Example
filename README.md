@@ -1,3 +1,2 @@
 # Git-Example
-Simple git repository
-status +
+Simple git repositore
